@@ -2,7 +2,7 @@
 
 Configure your both source and target machines using below process before initiating transfer.
 
-If your system os is windows 11 skip the windows 10 configuration
+If your system OS is windows 11 skip the windows 10 configuration
 
 ## **Configuration before initiating Transfer for windows 10:**
 
